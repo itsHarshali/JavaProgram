@@ -1,6 +1,6 @@
 public class Overriding {
     public void show(String a){
-        System.out.println("wellcome " +a);
+        System.out.println("wellcomee " +a);
     }
 }
 class test1 extends Overriding{
