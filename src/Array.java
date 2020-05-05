@@ -1,3 +1,5 @@
 public class Array {
-    public static void main(String[])
+    public static void main(String[]arg ){
+
+    }
 }
